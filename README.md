@@ -3,7 +3,7 @@
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
             alt="Typing SVG"
-        />https://github.com/kawishkawd/Queen-Alexa/edit/main/README.md
+        
     </a>
 </p>
 <div align="center">
